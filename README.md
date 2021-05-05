@@ -1,3 +1,3 @@
 # hello-mit
 
-Hi everyone!
+Hi everyone and Philip!
